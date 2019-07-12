@@ -1,4 +1,4 @@
-# lgdshopspa
+# LGDShop-SPA
 
 ## Project setup
 ```
